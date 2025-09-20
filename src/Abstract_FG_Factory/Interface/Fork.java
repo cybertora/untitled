@@ -1,4 +1,4 @@
-package Abstract_FG_Factory;
+package Abstract_FG_Factory.Interface;
 
 public interface Fork {
 

@@ -1,5 +1,8 @@
 package Abstract_FG_Factory;
 
+import Abstract_FG_Factory.Interface.FGFactory;
+import Abstract_FG_Factory.Pro.ProFrameSet;
+
 public class Main {
     public static void main(String[] args) {
         ProFrameSet proFrameSet = new ProFrameSet();

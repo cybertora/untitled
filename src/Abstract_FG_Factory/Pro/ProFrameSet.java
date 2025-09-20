@@ -1,4 +1,8 @@
-package Abstract_FG_Factory;
+package Abstract_FG_Factory.Pro;
+
+import Abstract_FG_Factory.Interface.FGFactory;
+import Abstract_FG_Factory.Interface.Fork;
+import Abstract_FG_Factory.Interface.Frame;
 
 public class ProFrameSet implements FGFactory {
 

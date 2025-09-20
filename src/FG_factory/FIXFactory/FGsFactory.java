@@ -1,4 +1,8 @@
-package FG_factory;
+package FG_factory.FIXFactory;
+
+import FG_factory.FGSizes.L_fg;
+import FG_factory.FGSizes.M_fg;
+import FG_factory.FGSizes.S_fg;
 
 public class FGsFactory {
     public FGs selectionFG(int height){
