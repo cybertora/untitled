@@ -1,6 +1,6 @@
 package Adapter2;
 
-public class FixDetailsRunner {
+public class FixDetailsWholesaler {
     public static void main(String[] args) {
         FixDetails fixDetails = new AdapterShopToFD();
 
